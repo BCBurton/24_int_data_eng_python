@@ -1,12 +1,12 @@
 # Python Refresher Script
 
-# Variables and Data Types
+# Variables and Data Types 
 a = 5  # Integer
 b = 3.14  # Float
 c = "Hello, Python!"  # String
 d = True  # Boolean
 
-# Basic Operations
+# Basic Operations in Python
 sum = a + b  # Addition
 difference = a - b  # Subtraction
 product = a * b  # Multiplication
