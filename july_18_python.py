@@ -120,3 +120,11 @@ has_voter_id = False
 has_proof_of_residency = True
 if has_voter_id or has_proof_of_residency:
     print("Voter can proceed.")
+
+
+# >>>SLIDE 21
+try:
+    result = 10 / 0
+except ZeroDivisionError:
+    print("Error: Cannot divide by zero")
+print("Execution continues after handling the exception")
