@@ -27,7 +27,7 @@ def greet(name):
     return f"Hello, {name}!"
 
 # Function Call
-print(greet("Python"))
+print(greet("Ismael"))
 
 #"Modules allow us to use code written by others. For instance, we can use the math module for advanced mathematical operations:"
 import math
