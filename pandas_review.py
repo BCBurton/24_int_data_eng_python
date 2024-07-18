@@ -1,5 +1,12 @@
 import pandas as pd
 #SERIES SECTION 
+# What is a Series?
+# "A Pandas Series is a one-dimensional labeled array capable of holding any data type (integers, strings, floats, etc.). It is similar to a column in a DataFrame or a list in Python, but with additional capabilities and methods for data manipulation."
+
+# Key Features of a Series
+# Labeled Index: Each element in a Series is associated with a label, which allows for more intuitive data access and manipulation.
+# Homogeneous Data: Unlike DataFrames, Series can only hold data of a single type.
+
 # Creating a Series from a list
 data = [10, 20, 30, 40, 50]
 s = pd.Series(data)

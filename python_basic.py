@@ -1,8 +1,8 @@
 #python basics
 # >>>Variables and Data Types
-a = 5  # Integer
+a = 500  # Integer
 b = 3.14  # Float
-c = "Hello, LAST THING BEFORE I GO!"  # String
+c = "Hello, TEXAS TEXAS TEXAS!"  # String
 d = True  # Boolean
 print(d)
 print(c)
@@ -31,9 +31,9 @@ def greet(name):
     return f"Hello, {name}!"
 
 # Function Call
-print(greet("Ismael"))
+print(greet("NEXT RUN"))
 
-#"Modules allow us to use code written by others. For instance, we can use the math module for advanced mathematical operations:"
+# #"Modules allow us to use code written by others. For instance, we can use the math module for advanced mathematical operations:"
 import math
 print(math.sqrt(25))  # Square root
 
@@ -49,7 +49,7 @@ df = pd.DataFrame(data)
 print(df)
 
 # >>>File Handling and Basic I/O
-#"Lastly, handling files is an essential skill. Here's a simple example of reading from and writing to a file:"
+# "Lastly, handling files is an essential skill. Here's a simple example of reading from and writing to a file:"
 # Writing to a file
 with open('example.txt', 'w') as file:
     file.write("Hello, this is a test file.\n")
