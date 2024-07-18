@@ -2,14 +2,18 @@
 # >>>Variables and Data Types
 a = 5  # Integer
 b = 3.14  # Float
-c = "Hello, Python!"  # String
+c = "Hello, LAST THING BEFORE I GO!"  # String
 d = True  # Boolean
+print(d)
+print(c)
 
 # >>>Basic Operations
 sum = a + b  # Addition
 difference = a - b  # Subtraction
 product = a * b  # Multiplication
 quotient = a / b  # Division
+print(product)
+print(quotient)
 
 # >>>Control Structures
 if a > b:
@@ -31,7 +35,7 @@ print(greet("Ismael"))
 
 #"Modules allow us to use code written by others. For instance, we can use the math module for advanced mathematical operations:"
 import math
-print(math.sqrt(16))  # Square root
+print(math.sqrt(25))  # Square root
 
 # >>> Pandas and Numpy
 #"For data analysis, some key libraries we'll use are pandas and numpy:"
